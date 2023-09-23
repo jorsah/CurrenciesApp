@@ -1,0 +1,13 @@
+<resources>
+    <!--Main Screen-->
+    <string name="main_screen_title">Currencies</string>
+
+    <!--Filters Screen-->
+    <string name="filter_screen_title">Filters</string>
+    <string name="filter_screen_sort">Sort by</string>
+    <string name="filter_name">Code A-Z</string>
+    <string name="filter_name_reversed">Code Z-A</string>
+    <string name="filter_value">Quote Asc.</string>
+    <string name="filter_value_reversed">Quote Desc.</string>
+    <string name="filter_apply_btn">Apply</string>
+</resources>
